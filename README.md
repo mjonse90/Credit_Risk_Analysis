@@ -40,7 +40,17 @@ Easy Ensemble Classifying
   * High Risk: 0.62
   * Low Risk: 0.69
 
-###
+### Cluster Centroids
+
+<img width="1097" alt="17ClusterCentroids" src="https://user-images.githubusercontent.com/103767830/196263593-0474aaea-79cb-4d0c-beba-ac6a73bb315b.png">
+
+* Balanced Accuracy Score: 0.66
+* Precision Scores:
+  * High Risk: 0.01
+  * Low Risk: 1.00
+* Recall Scores:
+  * High Risk: 0.69
+  * Low Risk: 0.40
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
