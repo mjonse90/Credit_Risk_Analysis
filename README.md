@@ -24,6 +24,6 @@ Easy Ensemble Classifying
 * Precision Scores:
   * High Risk: 0.01
   * Low Risk: 1.00
-*Recall Scores:
-  *High Risk: 0.66
-  *Low Risk: 0.61
+* Recall Scores:
+  * High Risk: 0.66
+  * Low Risk: 0.61
