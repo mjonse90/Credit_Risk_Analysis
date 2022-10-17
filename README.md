@@ -70,3 +70,6 @@ Easy Ensemble Classifying
 
 The four resampling models (RandomOver Sampler, SMOTE, ClusterCentroids, and SMOTEENN) all have fairly similar balance accuracy scores. SMOTEENN has the lowest balanced accuracy score of the resampling techniques with a score of 0.54. Overall, the resampling models are not the greatest models to predict credit risk. Since we are looking for a model to predict credit worthiness, we want a model that will be more precise than sensitive as we do not want potential creditors to be denied when they are in fact a great customer to have.
 
+
+
+It is my assumption that an ensemble model will work best to predict risk since it will use more than just one single algorithm. 
