@@ -54,3 +54,19 @@ Easy Ensemble Classifying
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
+### SMOTEENN
+
+<img width="1097" alt="17SMOTEEN" src="https://user-images.githubusercontent.com/103767830/196263592-b572f838-e89c-48fd-a9ee-c0f711dcfe8b.png">
+
+* Balanced Accuracy Score: 0.54
+* Precision Scores:
+  * High Risk: 0.01
+  * Low Risk: 1.00
+* Recall Scores:
+  * High Risk: 0.79
+  * Low Risk: 0.54
+
+## Summary
+
+
+
