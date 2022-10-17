@@ -27,3 +27,20 @@ Easy Ensemble Classifying
 * Recall Scores:
   * High Risk: 0.66
   * Low Risk: 0.61
+
+### SMOTE
+
+<img width="1097" alt="17SMOTE" src="https://user-images.githubusercontent.com/103767830/196263590-d4d9fd26-c465-46b7-9be4-dd17db1c24c0.png">
+
+* Balanced Accuracy Score: 0.66
+* Precision Scores:
+  * High Risk: 0.01
+  * Low Risk: 1.00
+* Recall Scores:
+  * High Risk: 0.62
+  * Low Risk: 0.69
+
+###
+
+## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
+
