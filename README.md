@@ -6,12 +6,12 @@ This purpose of this project is to use supervised machine learning models for a 
 
 ## Machine Learning Models
 
-Naive Random Oversampling
-SMOTE Oversampling
-Cluster Centroid Undersampling
-SMOTEENN Sampling
-Balanced Random Forest Classifying
-Easy Ensemble Classifying
+* Naive Random Oversampling
+* SMOTE Oversampling
+* Cluster Centroid Undersampling
+* SMOTEENN Sampling
+* Balanced Random Forest Classifying
+* Easy Ensemble Classifying
 
 ## Results
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk
